@@ -7,7 +7,7 @@
   <img src="https://komarev.com/ghpvc/?username=ritishroshankumar&label=Profile%20views&color=0e75b6&style=flat" alt="ritishroshankumar" />
 </p>
 
-- 🌱 I’m currently learning **Data Science, Machine Learning & Python**
+- 🌱 I’m currently learning **Data Science, Machine Learning & Python **
 - 💬 Ask me about **Python, Data Analysis, Statistics, Machine Learning**
 - 📫 How to reach me **ritishkumar8090@gmail.com**
 
